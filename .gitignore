@@ -6,8 +6,9 @@ __pycache__/
 .ipynb_checkpoints/
 .notebooks_cache/
 
-# Data and outputs
-data/*.csv
+# Data and outputs (keep CSVs tracked)
+# Uncomment the next line to ignore datasets
+# data/*.csv
 results/models/
 results/figures/
 
