@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+
+# Data and outputs
+data/*.csv
+results/models/
+results/figures/
+
+# OS
+.DS_Store
